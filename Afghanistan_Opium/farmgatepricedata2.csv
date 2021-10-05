@@ -1,0 +1,2946 @@
+,0,1,2,3,,,
+0,Dry Opium,10-Jan,11-Jan,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",95,267,181%,,,
+2,"Trader price 
+(US$/Kg)",102,280,175%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Jan,11-Jan,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",72,234,225%,,,
+2,"Trader price 
+(US$/Kg)",79,234,196%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Feb,11-Feb,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",73,251,244%,,,
+2,"Trader price 
+(US$/Kg)",80,259,224%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Mar,11-Mar,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",79,253,220%,,,
+2,"Trader price 
+(US$/Kg)",85,262,208%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Apr,11-Apr,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",85,227,168%,,,
+2,"Trader price 
+(US$/Kg)",91,237,161%,,,
+,0,1,2,3,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+0,Dry Opium,10-Jun,11-Jun,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",125,261,108%,,,
+2,"Trader price 
+(US$/Kg)",134,274,104%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Jun,11-Jun,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",110,221,101%,,,
+2,"Trader price 
+(US$/Kg)",115,231,101%,,,
+,0,1,2,3,,,
+0,Fresh Opium,Dry Opium,,,,,
+1,"174 
+174","199 
+187","Farm-gate price 
+Trader price",Number of observations (n),,,
+2,10,15,"collected 
+provinces price 
+Number of",,,,
+,0,1,2,3,,,
+0,Dry Opium,10-Jul,11-Jul,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",172,260,51%,,,
+2,"Trader price 
+(US$/Kg)",187,267,43%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Jul,11-Jul,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",148,212,43%,,,
+2,"Trader price 
+(US$/Kg)",158,222,41%,,,
+,0,1,2,3,,,
+0,Fresh Opium,Dry Opium,,,,,
+1,"174 
+174","199 
+187","Farm-gate price 
+Trader price",Number of observations (n),,,
+2,12,15,"collected 
+provinces price 
+Number of",,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Aug,11-Aug,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",161,214,33%,,,
+2,"Trader price 
+(US$/Kg)",172,218,27%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Sep,11-Sep,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",173,210,21%,,,
+2,"Trader price 
+(US$/Kg)",184,220,20%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Dec,11-Dec,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",223,186,-17%,,,
+2,"Trader price 
+(US$/Kg)",223,198,-11%,,,
+,0,1,2,3,,,
+0,Dry Opium,11-Jan,12-Jan,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",267,234,-12%,,,
+2,"Trader price 
+(US$/Kg)",281,249,-12%,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Jan,12-Jan,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",234,180,-23%,,,
+2,"Trader price 
+(US$/Kg)",234,189,-19%,,,
+,0,1,2,3,,,
+0,Dry Opium,11-Feb,12-Feb,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",276,231,-16%,,,
+2,"Trader price 
+(US$/Kg)",291,244,-16%,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Feb,12-Feb,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",251,176,-30%,,,
+2,"Trader price 
+(US$/Kg)",259,185,-28%,,,
+,0,1,2,3,,,
+0,Dry Opium,10-Feb,11-Feb,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",95,276,191%,,,
+2,"Trader price 
+(US$/Kg)",101,291,188%,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Feb,11-Feb,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",73,251,244%,,,
+2,"Trader price 
+(US$/Kg)",80,259,224%,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Feb,12-Feb,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",251,176,-30%,,,
+2,"Trader price 
+(US$/Kg)",259,185,-28%,,,
+,0,1,2,3,,,
+0,Dry Opium,11-Mar,12-Mar,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",274,220,-20%,,,
+2,"Trader price 
+(US$/Kg)",289,232,-20%,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Mar,12-Mar,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",253,159,-37%,,,
+2,"Trader price 
+(US$/Kg)",262,169,-35%,,,
+,0,1,2,3,,,
+0,Dry Opium,11-Apr,12-Apr,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",256,210,-18%,,,
+2,"Trader price 
+(US$/Kg)",273,222,-19%,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Apr,12-Apr,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",227,158,-30%,,,
+2,"Trader price 
+(US$/Kg)",237,166,-30%,,,
+,0,1,2,3,,,
+0,Dry Opium,11-May,12-May,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",250,219,-12%,,,
+2,"Trader price 
+(US$/Kg)",265,231,-13%,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-May,12-May,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",211,166,-21%,,,
+2,"Trader price 
+(US$/Kg)",219,172,-21%,,,
+,0,1,2,3,,,
+0,Dry Opium,11-Jun,12-Jun,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",261,215,-17%,,,
+2,"Trader price 
+(US$/Kg)",274,225,-18%,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Jun,12-Jun,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",221,171,-23%,,,
+2,"Trader price 
+(US$/Kg)",231,177,-23%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+0,Fresh Opium,11-Jul,12-Jul,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",212,156,-26%,,,
+2,"Trader price 
+(US$/Kg)",222,163,-27%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Aug,12-Aug,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",214,168,-22%,,,
+2,"Trader price 
+(US$/Kg)",218,175,-20%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Sep,12-Sep,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",218,164,-25%,,,
+2,"Trader price 
+(US$/Kg)",229,171,-25%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Oct,12-Oct,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",221,159,-28%,,,
+2,"Trader price 
+(US$/Kg)",232,165,-29%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Nov,12-Nov,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",214,157,-27%,,,
+2,"Trader price 
+(US$/Kg)",225,163,-27%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Dec,12-Dec,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",186,166,-11%,,,
+2,"Trader price 
+(US$/Kg)",198,173,-13%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Jan,13-Jan,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",180,167,-7%,,,
+2,"Trader price 
+(US$/Kg)",189,175,-7%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Feb,13-Feb,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",176,162,-8%,,,
+2,"Trader price 
+(US$/Kg)",185,170,-8%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,10-Feb,11-Feb,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",73,251,244%,,,
+2,"Trader price 
+(US$/Kg)",80,259,224%,,,
+,0,1,2,3,,,
+0,Fresh Opium,11-Feb,12-Feb,"Increase/ 
+Decrease (%)",,,
+1,"Farm-gate price 
+(US$/Kg)",251,176,-30%,,,
+2,"Trader price 
+(US$/Kg)",259,185,-28%,,,
+,0,1,2,3,,,
+0,Dry Opium,12-Feb,13-Feb,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",231,181,-22%,,,
+2,"Trader price 
+(US$/Kg)",244,189,-23%,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Feb,13-Feb,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",176,162,-8%,,,
+2,"Trader price 
+(US$/Kg)",185,170,-8%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Mar,13-Mar,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",159,161,1%,,,
+2,"Trader price 
+(US$/Kg)",169,168,-1%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Apr,13-Apr,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",158,143,-9%,,,
+2,"Trader price 
+(US$/Kg)",166,159,-4%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-May,13-May,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",166,132,-21%,,,
+2,"Trader price 
+(US$/Kg)",172,147,-15%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Jun,13-Jun,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",171,120,-30%,,,
+2,"Trader price 
+(US$/Kg)",177,126,-29%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Jul,13-Jul,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",156,114,-27%,,,
+2,"Trader price 
+(US$/Kg)",163,120,-26%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Aug,13-Aug,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",168,115,-31%,,,
+2,"Trader price 
+(US$/Kg)",175,121,-31%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Sep,13-Sep,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",164,112,-32%,,,
+2,"Trader price 
+(US$/Kg)",171,117,-32%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Oct,13-Oct,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",159,116,-27%,,,
+2,"Trader price 
+(US$/Kg)",165,121,-27%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Nov,13-Nov,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",157,124,-21%,,,
+2,"Trader price 
+(US$/Kg)",163,129,-21%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,12-Dec,13-Dec,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",166,128,-23%,,,
+2,"Trader price 
+(US$/Kg)",173,134,-23%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Jan,14-Jan,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",167,132,-21%,,,
+2,"Trader price 
+(US$/Kg)",175,138,-21%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Feb,14-Feb,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",162,135,-17%,,,
+2,"Trader price 
+(US$/Kg)",170,142,-16%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Mar,14-Mar,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",161,137,-15%,,,
+2,"Trader price 
+(US$/Kg)",168,144,-14%,,,
+,0,1,2,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Apr,14-Apr,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",143,126,-12%,,,
+2,"Trader price 
+(US$/Kg)",159,132,-17%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-May,14-May,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",132,108,-18%,,,
+2,"Trader price 
+(US$/Kg)",147,113,-23%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Jun,14-Jun,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",120,108,-10%,,,
+2,"Trader price 
+(US$/Kg)",126,111,-12%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Jul,14-Jul,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",114,108,-5%,,,
+2,"Trader price 
+(US$/Kg)",120,109,-9%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Aug,14-Aug,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",115,114,-1%,,,
+2,"Trader price 
+(US$/Kg)",121,119,-2%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Sep,14-Sep,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",112,124,11%,,,
+2,"Trader price 
+(US$/Kg)",117,128,9%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Oct,14-Oct,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",116,124,7%,,,
+2,"Trader price 
+(US$/Kg)",121,128,6%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Nov,14-Nov,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",124,126,2%,,,
+2,"Trader price 
+(US$/Kg)",129,131,2%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,13-Dec,14-Dec,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",128,129,1%,,,
+2,"Trader price 
+(US$/Kg)",134,133,-1%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Jan,15-Jan,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",132,131.7,-0.40%,,,
+2,"Trader price 
+(US$/Kg)",138,136,-1%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Feb,15-Feb,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",135,123,-0.09,,,
+2,"Trader price 
+(US$/Kg)",142,128,-10%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Mar,15-Mar,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",137,127,-8%,,,
+2,"Trader price 
+(US$/Kg)",144,132,-8%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Apr,15-Apr,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",126,123,-2%,,,
+2,"Trader price 
+(US$/Kg)",132,131,-1%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-May,15-May,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",108,139,29%,,,
+2,"Trader price 
+(US$/Kg)",113,140,24%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Jun,15-Jun,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",108,126,16%,,,
+2,"Trader price 
+(US$/Kg)",111,132,19%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Jul,15-Jul,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",108,130,20%,,,
+2,"Trader price 
+(US$/Kg)",109,136,24%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Dry Opium,14-Aug,15-Aug,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",137,152,11%,,,
+2,"Trader price 
+(US$/Kg)",146,159,9%,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Aug,15-Aug,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",114,124,8%,,,
+2,"Trader price 
+(US$/Kg)",119,132,11%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Sep,15-Sep,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",124,129,4%,,,
+2,"Trader price 
+(US$/Kg)",128,136,6%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Oct,15-Oct,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",124,130,5%,,,
+2,"Trader price 
+(US$/Kg)",128,137,7%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Nov,15-Nov,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",126,139,10%,,,
+2,"Trader price 
+(US$/Kg)",131,145,11%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Dec,15-Dec,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",129,164,28%,,,
+2,"Trader price 
+(US$/Kg)",133,173,30%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Dry Opium,14-Jan,15-Jan,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",147,143,-3%,,,
+2,"Trader price 
+(US$/Kg)",155,150,-3%,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Jan,15-Jan,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",132,131.7,-0.40%,,,
+2,"Trader price 
+(US$/Kg)",138,136,-1%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Feb,15-Feb,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",135,123,-0.09,,,
+2,"Trader price 
+(US$/Kg)",142,128,-10%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Mar,15-Mar,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",137,127,-8%,,,
+2,"Trader price 
+(US$/Kg)",144,132,-8%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Apr,15-Apr,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",126,123,-2%,,,
+2,"Trader price 
+(US$/Kg)",132,131,-1%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-May,15-May,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",108,139,29%,,,
+2,"Trader price 
+(US$/Kg)",113,140,24%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Jun,15-Jun,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",108,126,16%,,,
+2,"Trader price 
+(US$/Kg)",111,132,19%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Jul,15-Jul,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",108,130,20%,,,
+2,"Trader price 
+(US$/Kg)",109,136,24%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Dry Opium,14-Aug,15-Aug,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",137,152,11%,,,
+2,"Trader price 
+(US$/Kg)",146,159,9%,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Aug,15-Aug,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",114,124,8%,,,
+2,"Trader price 
+(US$/Kg)",119,132,11%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Sep,15-Sep,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",124,129,4%,,,
+2,"Trader price 
+(US$/Kg)",128,136,6%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Oct,15-Oct,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",124,130,5%,,,
+2,"Trader price 
+(US$/Kg)",128,137,7%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Nov,15-Nov,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",126,139,10%,,,
+2,"Trader price 
+(US$/Kg)",131,145,11%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,,,
+0,Fresh Opium,14-Dec,15-Dec,"Increase/ Decrease 
+(%)",,,
+1,"Farm-gate price 
+(US$/Kg)",129,164,28%,,,
+2,"Trader price 
+(US$/Kg)",133,173,30%,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Dec_2016,Jan_2017,"Change  
+ %",Jan_2016,Jan_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),206,199,-3%,205,199,-3%
+3,Dry opium Trader price (US$/Kg),214,207,-3%,213,207,-3%
+4,Fresh Opium Farm-gate price (US$/Kg),186,178,-4%,188,178,-5%
+5,Fresh Opium Trader price (US$/Kg),196,187,-5%,199,187,-6%
+6,Heroin High Quality,3414,3337,-2%,3622,3337,-8%
+7,Heroin Medium Quality,2493,2738,10%,2429,2444,1%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Dec_2016,Jan_2017,"Change  
+ %",Jan_2016,Jan_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),206,199,-3%,205,199,-3%
+3,Dry opium Trader price (US$/Kg),214,207,-3%,213,207,-3%
+4,Fresh Opium Farm-gate price (US$/Kg),186,178,-4%,188,178,-5%
+5,Fresh Opium Trader price (US$/Kg),196,187,-5%,199,187,-6%
+6,Heroin High Quality,3414,3337,-2%,3622,3337,-8%
+7,Heroin Medium Quality,2493,2738,10%,2429,2444,1%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Dec_2016,Jan_2017,"Change  
+ %",Jan_2016,Jan_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),206,199,-3%,205,199,-3%
+3,Dry opium Trader price (US$/Kg),214,207,-3%,213,207,-3%
+4,Fresh Opium Farm-gate price (US$/Kg),186,178,-4%,188,178,-5%
+5,Fresh Opium Trader price (US$/Kg),196,187,-5%,199,187,-6%
+6,Heroin High Quality,3414,3337,-2%,3622,3337,-8%
+7,Heroin Medium Quality,2493,2738,10%,2429,2444,1%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Dec_2016,Jan_2017,"Change  
+ %",Jan_2016,Jan_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),206,199,-3%,205,199,-3%
+3,Dry opium Trader price (US$/Kg),214,207,-3%,213,207,-3%
+4,Fresh Opium Farm-gate price (US$/Kg),186,178,-4%,188,178,-5%
+5,Fresh Opium Trader price (US$/Kg),196,187,-5%,199,187,-6%
+6,Heroin High Quality,3414,3337,-2%,3622,3337,-8%
+7,Heroin Medium Quality,2493,2738,10%,2429,2444,1%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price change 
+(Jan-Dec) %",Hilmand,,"Price change 
+(Jan-Dec) %"
+1,,16-Dec,17-Jan,,16-Dec,17-Jan,
+2,"Farm-gate price 
+(US$/Kg)",194,165,-15%,400,400,0.00%
+,0,1,,,,,
+0,"Average Price US$/Kg
+275
+250
+225
+200
+175
+150
+125
+100
+75
+50
+25",,,,,,
+1,0,"Jul-05
+Oct-05
+Jan-06
+Jul-06
+Oct-06
+Jan-07
+Apr-07
+Jul-07
+Oct-07
+Jan-08
+Apr-08
+Jul-08
+Oct-08
+Jan-09
+Apr-09
+Jul-09
+Oct-09
+Jan-10
+Apr-10
+Jul-10
+Oct-10
+Jan-11
+Apr-11
+Jul-11
+Oct-11
+Jan-12
+Apr-12
+Jul-12
+Oct-12
+Jan-13
+Apr-13
+Jul-13
+Oct-13
+Jan-14
+Apr-14
+Jul-14
+Oct-14
+Jan-15
+Apr-15
+Jul-15
+Oct-15
+Jan-16
+Apr-16
+Jul-16
+Oct-16
+Jan-17
+Farm-gate
+Traders",,,,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Jan_2017,Feb_2017,"Change  
+%",Feb_2016,Feb_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),199,195,-2%,217,195,-10%
+3,Dry opium Trader price (US$/Kg),207,202,-2%,226,202,-11%
+4,Fresh Opium Farm-gate price (US$/Kg),178,177,-1%,199,177,-11%
+5,Fresh Opium Trader price (US$/Kg),187,186,-1%,210,186,-12%
+6,Heroin High Quality,3337,3478,4%,3412,3478,2%
+7,Heroin Medium Quality,2444,2509,3%,2345,2796,19%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Jan_2017,Feb_2017,"Change  
+%",Feb_2016,Feb_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),199,195,-2%,217,195,-10%
+3,Dry opium Trader price (US$/Kg),207,202,-2%,226,202,-11%
+4,Fresh Opium Farm-gate price (US$/Kg),178,177,-1%,199,177,-11%
+5,Fresh Opium Trader price (US$/Kg),187,186,-1%,210,186,-12%
+6,Heroin High Quality,3337,3478,4%,3412,3478,2%
+7,Heroin Medium Quality,2444,2509,3%,2345,2796,19%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+ change 
+(Feb-Jan) 
+ %",Hilmand,,"Price 
+ Change 
+ (Feb-Jan) 
+ %"
+1,,17-Jan,17-Feb,,17-Jan,17-Feb,
+2,"Farm-gate price 
+(US$/Kg)",165,163,-1%,400,398,-0.50%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Feb_2017,Mar_2017,"Change  
+%",,Mar_2016 Mar_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),195,179,-8%,231,179,-23%
+3,Dry opium Trader price (US$/Kg),202,187,-8%,242,187,-23%
+4,Fresh Opium Farm-gate price (US$/Kg),177,158,-11%,216,158,-27%
+5,Fresh Opium Trader price (US$/Kg),186,167,-10%,227,167,-26%
+6,Heroin High Quality,3478,3380,-3%,3717,3380,-9%
+7,Heroin Medium Quality,2509,2431,-3%,2468,2431,-1%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Feb_2017,Mar_2017,"Change  
+%",,Mar_2016 Mar_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),195,179,-8%,231,179,-23%
+3,Dry opium Trader price (US$/Kg),202,187,-8%,242,187,-23%
+4,Fresh Opium Farm-gate price (US$/Kg),177,158,-11%,216,158,-27%
+5,Fresh Opium Trader price (US$/Kg),186,167,-10%,227,167,-26%
+6,Heroin High Quality,3478,3380,-3%,3717,3380,-9%
+7,Heroin Medium Quality,2509,2431,-3%,2468,2431,-1%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+ change 
+(Mar-Feb) 
+ %",Hilmand,,"Price 
+ Change 
+ (Mar-Feb) 
+ %"
+1,,17-Feb,17-Mar,,17-Feb,17-Mar,
+2,"Farm-gate price 
+(US$/Kg)",163,161,-1%,398,376,-5%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Mar_2017,Apr_2017,"Change  
+%",Apr_2016,Apr_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),179,158,-12%,195,158,-19%
+3,Dry opium Trader price (US$/Kg),187,165,-11%,206,165,-20%
+4,Fresh Opium Farm-gate price (US$/Kg),158,134,-15%,168,134,-20%
+5,Fresh Opium Trader price (US$/Kg),167,143,-15%,179,143,-20%
+6,Heroin High Quality,3380,3352,-1%,3186,3352,5%
+7,Heroin Medium Quality,2431,2341,-4%,2305,2341,2%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Mar_2017,Apr_2017,"Change  
+%",Apr_2016,Apr_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),179,158,-12%,195,158,-19%
+3,Dry opium Trader price (US$/Kg),187,165,-11%,206,165,-20%
+4,Fresh Opium Farm-gate price (US$/Kg),158,134,-15%,168,134,-20%
+5,Fresh Opium Trader price (US$/Kg),167,143,-15%,179,143,-20%
+6,Heroin High Quality,3380,3352,-1%,3186,3352,5%
+7,Heroin Medium Quality,2431,2341,-4%,2305,2341,2%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Apr-Mar) 
+%",Hilmand,,"Price 
+change 
+(Apr-Mar) 
+%"
+1,,17-Mar,17-Apr,,17-Mar,17-Apr,
+2,"Farm-gate price 
+(US$/Kg)",161,143,-11%,376,355,-6%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Apr_2017,May_2017,"Change  
+%",,May_2016 May_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),158,156,-1%,193,156,-19%
+3,Dry opium Trader price (US$/Kg),165,163,-2%,202,163,-19%
+4,Fresh Opium Farm-gate price (US$/Kg),134,131,-2%,150,131,-13%
+5,Fresh Opium Trader price (US$/Kg),143,138,-3%,159,138,-13%
+6,Heroin High Quality,"3,352","3,498",4%,"3,438","3,498",2%
+7,Heroin Medium Quality,"2,341","2,327",-1%,"2,344","2,327",-1%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Apr_2017,May_2017,"Change  
+%",,May_2016 May_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),158,156,-1%,193,156,-19%
+3,Dry opium Trader price (US$/Kg),165,163,-2%,202,163,-19%
+4,Fresh Opium Farm-gate price (US$/Kg),134,131,-2%,150,131,-13%
+5,Fresh Opium Trader price (US$/Kg),143,138,-3%,159,138,-13%
+6,Heroin High Quality,"3,352","3,498",4%,"3,438","3,498",2%
+7,Heroin Medium Quality,"2,341","2,327",-1%,"2,344","2,327",-1%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(May-Apr) 
+%",Hilmand,,"Price 
+change 
+(May-Apr) 
+%"
+1,,17-Apr,17-May,,17-Apr,17-May,
+2,"Farm-gate price 
+(US$/Kg)",143,134,-6%,355,357,1%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2017,June_2017,"Change  
+%",June_2016,June_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),156,154,-1%,198,154,-22%
+3,Dry opium Trader price (US$/Kg),163,162,-0.10%,207,162,-22%
+4,Fresh Opium Farm-gate price (US$/Kg),131,122,-7%,165,122,-26%
+5,Fresh Opium Trader price (US$/Kg),138,128,-7%,174,128,-26%
+6,Heroin High Quality,"3,498","3,429",-2%,"3,500","3,429",-2%
+7,Heroin Medium Quality,"2,327","2,320",-0.30%,"2,324","2,320",-0.10%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2017,June_2017,"Change  
+%",June_2016,June_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),156,154,-1%,198,154,-22%
+3,Dry opium Trader price (US$/Kg),163,162,-0.10%,207,162,-22%
+4,Fresh Opium Farm-gate price (US$/Kg),131,122,-7%,165,122,-26%
+5,Fresh Opium Trader price (US$/Kg),138,128,-7%,174,128,-26%
+6,Heroin High Quality,"3,498","3,429",-2%,"3,500","3,429",-2%
+7,Heroin Medium Quality,"2,327","2,320",-0.30%,"2,324","2,320",-0.10%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Jun-May) 
+%",Hilmand,,"Price 
+change 
+(Jun-May) 
+%"
+1,,17-May,17-Jun,,17-May,17-Jun,
+2,"Farm-gate price 
+(US$/Kg)",134,130,-3%,357,352,-2%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,June_2017,July_2017,"Change  
+%",July_2016,July_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),154,137,-11%,188,137,-27%
+3,Dry opium Trader price (US$/Kg),162,138,-15%,198,138,-30%
+4,Fresh Opium Farm-gate price (US$/Kg),122,105,-14%,156,105,-33%
+5,Fresh Opium Trader price (US$/Kg),128,112,-12%,166,112,-32%
+6,Heroin High Quality,"3,429","3,339",-3%,"3,343","3,339",-0.10%
+7,Heroin Medium Quality,"2,320","2,237",-4%,"2,414","2,237",-7%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,June_2017,July_2017,"Change  
+%",July_2016,July_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),154,137,-11%,188,137,-27%
+3,Dry opium Trader price (US$/Kg),162,138,-15%,198,138,-30%
+4,Fresh Opium Farm-gate price (US$/Kg),122,105,-14%,156,105,-33%
+5,Fresh Opium Trader price (US$/Kg),128,112,-12%,166,112,-32%
+6,Heroin High Quality,"3,429","3,339",-3%,"3,343","3,339",-0.10%
+7,Heroin Medium Quality,"2,320","2,237",-4%,"2,414","2,237",-7%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Jul-Jun) 
+%",Hilmand,,"Price 
+change 
+(Jul-Jun) 
+%"
+1,,17-Jun,17-Jul,,17-Jun,17-Jul,
+2,"Farm-gate price 
+(US$/Kg)",130,123,-6%,352,283,-20%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,July_2017,August_2017,"Change  
+%",,August_2016 August_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),137,136,-1%,187,136,-27%
+3,Dry opium Trader price (US$/Kg),138,143,4%,197,143,-27%
+4,Fresh Opium Farm-gate price (US$/Kg),105,110,5%,162,110,-32%
+5,Fresh Opium Trader price (US$/Kg),112,115,2%,172,115,-33%
+6,Heroin High Quality,"3,339","3,325",-0.40%,"3,333","3,325",-0.20%
+7,Heroin Medium Quality,"2,237","2,270",1%,"2,383","2,270",-5%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,July_2017,August_2017,"Change  
+%",,August_2016 August_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),137,136,-1%,187,136,-27%
+3,Dry opium Trader price (US$/Kg),138,143,4%,197,143,-27%
+4,Fresh Opium Farm-gate price (US$/Kg),105,110,5%,162,110,-32%
+5,Fresh Opium Trader price (US$/Kg),112,115,2%,172,115,-33%
+6,Heroin High Quality,"3,339","3,325",-0.40%,"3,333","3,325",-0.20%
+7,Heroin Medium Quality,"2,237","2,270",1%,"2,383","2,270",-5%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Aug-Jul) 
+%",Hilmand,,"Price 
+change 
+(Aug-Jul) 
+%"
+1,,17-Jul,17-Aug,,17-Jul,17-Aug,
+2,"Farm-gate price 
+(US$/Kg)",123,117,-4%,283,286,1%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,August_2017 September_2017,,"Change  
+%",September_2016,September_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),136,133,-2%,191,133,-30%
+3,Dry opium Trader price (US$/Kg),143,140,-2%,200,140,-30%
+4,Fresh Opium Farm-gate price (US$/Kg),110,108,-2%,169,108,-36%
+5,Fresh Opium Trader price (US$/Kg),115,115,0%,178,115,-35%
+6,Heroin High Quality,"3,325","3,300",-1%,"3,484","3,300",-5%
+7,Heroin Medium Quality,"2,270","2,264",-0.30%,"2,483","2,264",-9%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,August_2017 September_2017,,"Change  
+%",September_2016,September_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),136,133,-2%,191,133,-30%
+3,Dry opium Trader price (US$/Kg),143,140,-2%,200,140,-30%
+4,Fresh Opium Farm-gate price (US$/Kg),110,108,-2%,169,108,-36%
+5,Fresh Opium Trader price (US$/Kg),115,115,0%,178,115,-35%
+6,Heroin High Quality,"3,325","3,300",-1%,"3,484","3,300",-5%
+7,Heroin Medium Quality,"2,270","2,264",-0.30%,"2,483","2,264",-9%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Sep-Aug) 
+%",Hilmand,,"Price 
+change 
+(Sep-Aug) 
+%"
+1,,17-Aug,17-Sep,,17-Aug,17-Sep,
+2,"Farm-gate price 
+(US$/Kg)",117,114,-3%,286,284,-1%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,September_2017 October_2017,,"Change  
+%",,October_2016 October_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),133,127,-5%,198,127,-36%
+3,Dry opium Trader price (US$/Kg),140,134,-4%,207,134,-35%
+4,Fresh Opium Farm-gate price (US$/Kg),108,101,-6%,187,101,-46%
+5,Fresh Opium Trader price (US$/Kg),115,108,-6%,196,108,-45%
+6,Heroin High Quality,"3,300","3,497",6%,"3,525","3,497",-1%
+7,Heroin Medium Quality,"2,264","2,239",-1%,"2,528","2,239",-11%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,September_2017 October_2017,,"Change  
+%",,October_2016 October_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),133,127,-5%,198,127,-36%
+3,Dry opium Trader price (US$/Kg),140,134,-4%,207,134,-35%
+4,Fresh Opium Farm-gate price (US$/Kg),108,101,-6%,187,101,-46%
+5,Fresh Opium Trader price (US$/Kg),115,108,-6%,196,108,-45%
+6,Heroin High Quality,"3,300","3,497",6%,"3,525","3,497",-1%
+7,Heroin Medium Quality,"2,264","2,239",-1%,"2,528","2,239",-11%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Oct-Sep) 
+%",Hilmand,,"Price 
+change 
+(Oct-Sep) 
+%"
+1,,17-Sep,17-Oct,,17-Sep,17-Oct,
+2,"Farm-gate price 
+(US$/Kg)",114,112,-1%,284,264,-7%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,October_2017,November_2017,"Change  
+%",,November_2016 November_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),127,120,-5%,209,120,-43%
+3,Dry opium Trader price (US$/Kg),134,127,-5%,216,127,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),101,99,-2%,189,99,-48%
+5,Fresh Opium Trader price (US$/Kg),109,108,-1%,198,108,-46%
+6,Heroin High Quality,"3,497","3,221",-8%,"3,434","3,221",-6%
+7,Heroin Medium Quality,"2,239","2,074",-7%,"2,482","2,074",-16%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,October_2017,November_2017,"Change  
+%",,November_2016 November_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),127,120,-5%,209,120,-43%
+3,Dry opium Trader price (US$/Kg),134,127,-5%,216,127,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),101,99,-2%,189,99,-48%
+5,Fresh Opium Trader price (US$/Kg),109,108,-1%,198,108,-46%
+6,Heroin High Quality,"3,497","3,221",-8%,"3,434","3,221",-6%
+7,Heroin Medium Quality,"2,239","2,074",-7%,"2,482","2,074",-16%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Nov-Oct) 
+%",Hilmand,,"Price 
+change 
+(Nov-Oct) 
+%"
+1,,17-Oct,17-Nov,,17-Oct,17-Nov,
+2,"Farm-gate price 
+(US$/Kg)",112,113,1%,264,260,-2%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,November_2017 December_2017,,"Change  
+%",December_2016,December_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),120,118,-2%,206,118,-43%
+3,Dry opium Trader price (US$/Kg),127,126,-1%,214,126,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),99,98,-1%,186,98,-47%
+5,Fresh Opium Trader price (US$/Kg),108,107,-1%,196,107,-45%
+6,Heroin High Quality,"3,221","3,158",-2%,"3,414","3,158",-7%
+7,Heroin Medium Quality,"2,074","2,158",4%,"2,493","2,158",-13%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,November_2017 December_2017,,"Change  
+%",December_2016,December_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),120,118,-2%,206,118,-43%
+3,Dry opium Trader price (US$/Kg),127,126,-1%,214,126,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),99,98,-1%,186,98,-47%
+5,Fresh Opium Trader price (US$/Kg),108,107,-1%,196,107,-45%
+6,Heroin High Quality,"3,221","3,158",-2%,"3,414","3,158",-7%
+7,Heroin Medium Quality,"2,074","2,158",4%,"2,493","2,158",-13%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,November_2017 December_2017,,"Change  
+%",December_2016,December_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),120,118,-2%,206,118,-43%
+3,Dry opium Trader price (US$/Kg),127,126,-1%,214,126,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),99,98,-1%,186,98,-47%
+5,Fresh Opium Trader price (US$/Kg),108,107,-1%,196,107,-45%
+6,Heroin High Quality,"3,221","3,158",-2%,"3,414","3,158",-7%
+7,Heroin Medium Quality,"2,074","2,158",4%,"2,493","2,158",-13%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,November_2017 December_2017,,"Change  
+%",December_2016,December_2017,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),120,118,-2%,206,118,-43%
+3,Dry opium Trader price (US$/Kg),127,126,-1%,214,126,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),99,98,-1%,186,98,-47%
+5,Fresh Opium Trader price (US$/Kg),108,107,-1%,196,107,-45%
+6,Heroin High Quality,"3,221","3,158",-2%,"3,414","3,158",-7%
+7,Heroin Medium Quality,"2,074","2,158",4%,"2,493","2,158",-13%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Dec-Nov) 
+%",Hilmand,,"Price 
+change 
+(Dec-Nov) 
+%"
+1,,17-Nov,17-Dec,,17-Nov,17-Dec,
+2,"Farm-gate price 
+(US$/Kg)",113,114,1%,260,248,-5%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,December_2017,January_2018,"Change  
+%",January_2017,January_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),118,111,-6%,199,111,-44%
+3,Dry opium Trader price (US$/Kg),126,117,-7%,207,117,-43%
+4,Fresh Opium Farm-gate price (US$/Kg),98,91,-7%,178,91,-49%
+5,Fresh Opium Trader price (US$/Kg),107,99,-7%,187,99,-47%
+6,Heroin High Quality,"3,158","3,227",2%,"3,337","3,227",-3%
+7,Heroin Medium Quality,"2,158","2,142",-1%,"2,444","2,142",-12%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,December_2017,January_2018,"Change  
+%",January_2017,January_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),118,111,-6%,199,111,-44%
+3,Dry opium Trader price (US$/Kg),126,117,-7%,207,117,-43%
+4,Fresh Opium Farm-gate price (US$/Kg),98,91,-7%,178,91,-49%
+5,Fresh Opium Trader price (US$/Kg),107,99,-7%,187,99,-47%
+6,Heroin High Quality,"3,158","3,227",2%,"3,337","3,227",-3%
+7,Heroin Medium Quality,"2,158","2,142",-1%,"2,444","2,142",-12%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Jan-Dec) 
+%",Hilmand,,"Price 
+change 
+(Jan-Dec) 
+%"
+1,,17-Dec,18-Jan,,17-Dec,18-Jan,
+2,"Farm-gate price 
+(US$/Kg)",114,115,1%,248,227,-9%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,January_2018,February_2018,"Change  
+%",February_2017,February_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),111,113,2%,195,113,-42%
+3,Dry opium Trader price (US$/Kg),117,119,2%,202,119,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),91,94,3%,177,94,-47%
+5,Fresh Opium Trader price (US$/Kg),99,103,4%,186,103,-45%
+6,Heroin High Quality,"3,227","3,249",1%,"3,478","3,249",-7%
+7,Heroin Medium Quality,"2,142","2,119",-1%,"2,509","2,119",-16%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,January_2018,February_2018,"Change  
+%",February_2017,February_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),111,113,2%,195,113,-42%
+3,Dry opium Trader price (US$/Kg),117,119,2%,202,119,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),91,94,3%,177,94,-47%
+5,Fresh Opium Trader price (US$/Kg),99,103,4%,186,103,-45%
+6,Heroin High Quality,"3,227","3,249",1%,"3,478","3,249",-7%
+7,Heroin Medium Quality,"2,142","2,119",-1%,"2,509","2,119",-16%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,January_2018,February_2018,"Change  
+%",February_2017,February_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),111,113,2%,195,113,-42%
+3,Dry opium Trader price (US$/Kg),117,119,2%,202,119,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),91,94,3%,177,94,-47%
+5,Fresh Opium Trader price (US$/Kg),99,103,4%,186,103,-45%
+6,Heroin High Quality,"3,227","3,249",1%,"3,478","3,249",-7%
+7,Heroin Medium Quality,"2,142","2,119",-1%,"2,509","2,119",-16%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,January_2018,February_2018,"Change  
+%",February_2017,February_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),111,113,2%,195,113,-42%
+3,Dry opium Trader price (US$/Kg),117,119,2%,202,119,-41%
+4,Fresh Opium Farm-gate price (US$/Kg),91,94,3%,177,94,-47%
+5,Fresh Opium Trader price (US$/Kg),99,103,4%,186,103,-45%
+6,Heroin High Quality,"3,227","3,249",1%,"3,478","3,249",-7%
+7,Heroin Medium Quality,"2,142","2,119",-1%,"2,509","2,119",-16%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Feb-Jan) 
+%",Hilmand,,"Price 
+change 
+(Feb-Jan) 
+%"
+1,,18-Jan,18-Feb,,18-Jan,18-Feb,
+2,"Farm-gate price 
+(US$/Kg)",115,98,-15%,227,226,-0.40%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,February_2018 March_2018,,"Change  
+%",March_2017,March_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),113,107,-5%,179,107,-40%
+3,Dry opium Trader price (US$/Kg),119,114,-5%,187,114,-39%
+4,Fresh Opium Farm-gate price (US$/Kg),94,89,-5%,158,89,-44%
+5,Fresh Opium Trader price (US$/Kg),103,98,-5%,167,98,-41%
+6,Heroin High Quality,"3,249","3,156",-3%,"3,380","3,156",-7%
+7,Heroin Medium Quality,"2,119","2,054",-3%,"2,431","2,054",-16%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,February_2018 March_2018,,"Change  
+%",March_2017,March_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),113,107,-5%,179,107,-40%
+3,Dry opium Trader price (US$/Kg),119,114,-5%,187,114,-39%
+4,Fresh Opium Farm-gate price (US$/Kg),94,89,-5%,158,89,-44%
+5,Fresh Opium Trader price (US$/Kg),103,98,-5%,167,98,-41%
+6,Heroin High Quality,"3,249","3,156",-3%,"3,380","3,156",-7%
+7,Heroin Medium Quality,"2,119","2,054",-3%,"2,431","2,054",-16%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,February_2018 March_2018,,"Change  
+%",March_2017,March_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),113,107,-5%,179,107,-40%
+3,Dry opium Trader price (US$/Kg),119,114,-5%,187,114,-39%
+4,Fresh Opium Farm-gate price (US$/Kg),94,89,-5%,158,89,-44%
+5,Fresh Opium Trader price (US$/Kg),103,98,-5%,167,98,-41%
+6,Heroin High Quality,"3,249","3,156",-3%,"3,380","3,156",-7%
+7,Heroin Medium Quality,"2,119","2,054",-3%,"2,431","2,054",-16%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,February_2018 March_2018,,"Change  
+%",March_2017,March_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),113,107,-5%,179,107,-40%
+3,Dry opium Trader price (US$/Kg),119,114,-5%,187,114,-39%
+4,Fresh Opium Farm-gate price (US$/Kg),94,89,-5%,158,89,-44%
+5,Fresh Opium Trader price (US$/Kg),103,98,-5%,167,98,-41%
+6,Heroin High Quality,"3,249","3,156",-3%,"3,380","3,156",-7%
+7,Heroin Medium Quality,"2,119","2,054",-3%,"2,431","2,054",-16%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Mar-Feb) 
+%",Hilmand,,"Price 
+change 
+(Mar-Feb) 
+%"
+1,,18-Feb,18-Mar,,18-Feb,18-Mar,
+2,"Farm-gate price 
+(US$/Kg)",98,87,-11%,226,197,-12%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,March_2018,April_2018,"Change  
+%",April_2017,April_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),107,103,-4%,158,103,-35%
+3,Dry opium Trader price (US$/Kg),114,111,-3%,165,111,-33%
+4,Fresh Opium Farm-gate price (US$/Kg),89,87,-3%,134,87,-35%
+5,Fresh Opium Trader price (US$/Kg),98,95,-3%,143,95,-33%
+6,Heroin High Quality,"3,156","3,085",-2%,"3,352","3,085",-8%
+7,Heroin Medium Quality,"2,054","2,040",-1%,"2,341","2,040",-13%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,March_2018,April_2018,"Change  
+%",April_2017,April_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),107,103,-4%,158,103,-35%
+3,Dry opium Trader price (US$/Kg),114,111,-3%,165,111,-33%
+4,Fresh Opium Farm-gate price (US$/Kg),89,87,-3%,134,87,-35%
+5,Fresh Opium Trader price (US$/Kg),98,95,-3%,143,95,-33%
+6,Heroin High Quality,"3,156","3,085",-2%,"3,352","3,085",-8%
+7,Heroin Medium Quality,"2,054","2,040",-1%,"2,341","2,040",-13%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Apr-Mar) 
+%",Hilmand,,"Price 
+change 
+(Apr-Mar) 
+%"
+1,,18-Mar,18-Apr,,18-Mar,18-Apr,
+2,"Farm-gate price 
+(US$/Kg)",87,90,3%,197,198,0.30%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,April_2018,May_2018,"Change  
+%",May_2017,May_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),103,101,-2%,156,101,-35%
+3,Dry opium Trader price (US$/Kg),111,109,-2%,163,108,-34%
+4,Fresh Opium Farm-gate price (US$/Kg),87,74,-14%,131,74,-43%
+5,Fresh Opium Trader price (US$/Kg),95,82,-14%,138,82,-41%
+6,Heroin High Quality,"3,085","3,009",-2%,"3,498","3,009",-14%
+7,Heroin Medium Quality,"2,040","2,033",-0.40%,"2,327","2,033",-13%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,April_2018,May_2018,"Change  
+%",May_2017,May_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),103,101,-2%,156,101,-35%
+3,Dry opium Trader price (US$/Kg),111,109,-2%,163,108,-34%
+4,Fresh Opium Farm-gate price (US$/Kg),87,74,-14%,131,74,-43%
+5,Fresh Opium Trader price (US$/Kg),95,82,-14%,138,82,-41%
+6,Heroin High Quality,"3,085","3,009",-2%,"3,498","3,009",-14%
+7,Heroin Medium Quality,"2,040","2,033",-0.40%,"2,327","2,033",-13%
+,0,1,2,3,4,5,6
+0,able 3:  Aaverage price of dry opium (Chaynaki quality) at farm-gate level (US$/Kg),,,,,,
+1,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(May-Apr) 
+%",Hilmand,,"Price 
+change 
+(May-Apr) 
+%"
+2,,18-Apr,18-May,,18-Apr,18-May,
+3,"Farm-gate price 
+(US$/Kg)",90,84,-7%,198,197.5,-0.20%
+,0,1,2,3,4,5,6
+0,able 3:  Aaverage price of dry opium (Chaynaki quality) at farm-gate level (US$/Kg),,,,,,
+1,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(May-Apr) 
+%",Hilmand,,"Price 
+change 
+(May-Apr) 
+%"
+2,,18-Apr,18-May,,18-Apr,18-May,
+3,"Farm-gate price 
+(US$/Kg)",90,84,-7%,198,197.5,-0.20%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2018,June_2018,"Change  
+%",June_2017,June_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),101,112,11%,154,112,-27%
+3,Dry opium Trader price (US$/Kg),109,119,9%,162,119,-27%
+4,Fresh Opium Farm-gate price (US$/Kg),74,86,16%,122,86,-29%
+5,Fresh Opium Trader price (US$/Kg),82,93,14%,128,93,-27%
+6,Heroin High Quality,"3,243","3,364",4%,"3,429","3,364",-2%
+7,Heroin Medium Quality,"2,033","2,122",4%,"2,320","2,122",-9%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2018,June_2018,"Change  
+%",June_2017,June_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),101,112,11%,154,112,-27%
+3,Dry opium Trader price (US$/Kg),109,119,9%,162,119,-27%
+4,Fresh Opium Farm-gate price (US$/Kg),74,86,16%,122,86,-29%
+5,Fresh Opium Trader price (US$/Kg),82,93,14%,128,93,-27%
+6,Heroin High Quality,"3,243","3,364",4%,"3,429","3,364",-2%
+7,Heroin Medium Quality,"2,033","2,122",4%,"2,320","2,122",-9%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2018,June_2018,"Change  
+%",June_2017,June_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),101,112,11%,154,112,-27%
+3,Dry opium Trader price (US$/Kg),109,119,9%,162,119,-27%
+4,Fresh Opium Farm-gate price (US$/Kg),74,86,16%,122,86,-29%
+5,Fresh Opium Trader price (US$/Kg),82,93,14%,128,93,-27%
+6,Heroin High Quality,"3,243","3,364",4%,"3,429","3,364",-2%
+7,Heroin Medium Quality,"2,033","2,122",4%,"2,320","2,122",-9%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2018,June_2018,"Change  
+%",June_2017,June_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),101,112,11%,154,112,-27%
+3,Dry opium Trader price (US$/Kg),109,119,9%,162,119,-27%
+4,Fresh Opium Farm-gate price (US$/Kg),74,86,16%,122,86,-29%
+5,Fresh Opium Trader price (US$/Kg),82,93,14%,128,93,-27%
+6,Heroin High Quality,"3,243","3,364",4%,"3,429","3,364",-2%
+7,Heroin Medium Quality,"2,033","2,122",4%,"2,320","2,122",-9%
+,0,1,2,3,4,5,6
+0,able 3:  Aaverage price of dry opium (Chaynaki quality) at farm-gate level (US$/Kg),,,,,,
+1,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Jun-May) 
+%",Hilmand,,"Price 
+change 
+(Jun-May) 
+%"
+2,,18-May,18-Jun,,18-May,18-Jun,
+3,"Farm-gate price 
+(US$/Kg)",84,87,3%,198,188,-5%
+,0,1,2,3,4,5,6
+0,able 3:  Aaverage price of dry opium (Chaynaki quality) at farm-gate level (US$/Kg),,,,,,
+1,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Jun-May) 
+%",Hilmand,,"Price 
+change 
+(Jun-May) 
+%"
+2,,18-May,18-Jun,,18-May,18-Jun,
+3,"Farm-gate price 
+(US$/Kg)",84,87,3%,198,188,-5%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,June_2018,Jul_2018,"Change  
+%",Jul_2017,Jul_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),112,91,-18%,137,91,-33%
+3,Dry opium Trader price (US$/Kg),119,99,-17%,145,99,-32%
+4,Fresh Opium Farm-gate price (US$/Kg),86,71,-17%,122,71,-41%
+5,Fresh Opium Trader price (US$/Kg),93,78,-16%,128,78,-39%
+6,Heroin High Quality,"3,364","2,696",-20%,"3,339","2,696",-19%
+7,Heroin Medium Quality,"2,122","1,797",-15%,"2,237","1,797",-20%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,June_2018,Jul_2018,"Change  
+%",Jul_2017,Jul_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),112,91,-18%,137,91,-33%
+3,Dry opium Trader price (US$/Kg),119,99,-17%,145,99,-32%
+4,Fresh Opium Farm-gate price (US$/Kg),86,71,-17%,122,71,-41%
+5,Fresh Opium Trader price (US$/Kg),93,78,-16%,128,78,-39%
+6,Heroin High Quality,"3,364","2,696",-20%,"3,339","2,696",-19%
+7,Heroin Medium Quality,"2,122","1,797",-15%,"2,237","1,797",-20%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,June_2018,Jul_2018,"Change  
+%",Jul_2017,Jul_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),112,91,-18%,137,91,-33%
+3,Dry opium Trader price (US$/Kg),119,99,-17%,145,99,-32%
+4,Fresh Opium Farm-gate price (US$/Kg),86,71,-17%,122,71,-41%
+5,Fresh Opium Trader price (US$/Kg),93,78,-16%,128,78,-39%
+6,Heroin High Quality,"3,364","2,696",-20%,"3,339","2,696",-19%
+7,Heroin Medium Quality,"2,122","1,797",-15%,"2,237","1,797",-20%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,June_2018,Jul_2018,"Change  
+%",Jul_2017,Jul_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),112,91,-18%,137,91,-33%
+3,Dry opium Trader price (US$/Kg),119,99,-17%,145,99,-32%
+4,Fresh Opium Farm-gate price (US$/Kg),86,71,-17%,122,71,-41%
+5,Fresh Opium Trader price (US$/Kg),93,78,-16%,128,78,-39%
+6,Heroin High Quality,"3,364","2,696",-20%,"3,339","2,696",-19%
+7,Heroin Medium Quality,"2,122","1,797",-15%,"2,237","1,797",-20%
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Jul-Jun) 
+%",Hilmand,,"Price 
+change 
+(Jul-Jun) 
+%"
+1,,18-Jun,18-Jul,,18-Jun,18-Jul,
+2,"Farm-gate price 
+(US$/Kg)",87,81,-7%,188,177,-5%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Jul_2018,Aug_2018,"Change  
+%",Aug_2017,Aug_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),91,88,-4%,136,88,-36%
+3,Dry opium Trader price (US$/Kg),99,94,-5%,143,94,-34%
+4,Fresh Opium Farm-gate price (US$/Kg),71,67,-7%,110,67,-39%
+5,Fresh Opium Trader price (US$/Kg),78,73,-7%,115,77,-33%
+6,Heroin High Quality,"2,696","2,866",6%,"3,325","2,866",-14%
+7,Heroin Medium Quality,"1,797","2,206",23%,"2,270","2,206",-3%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Jul_2018,Aug_2018,"Change  
+%",Aug_2017,Aug_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),91,88,-4%,136,88,-36%
+3,Dry opium Trader price (US$/Kg),99,94,-5%,143,94,-34%
+4,Fresh Opium Farm-gate price (US$/Kg),71,67,-7%,110,67,-39%
+5,Fresh Opium Trader price (US$/Kg),78,73,-7%,115,77,-33%
+6,Heroin High Quality,"2,696","2,866",6%,"3,325","2,866",-14%
+7,Heroin Medium Quality,"1,797","2,206",23%,"2,270","2,206",-3%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Aug-Jul) 
+%",Hilmand,"Price 
+change 
+(Aug-Jul) 
+%",,
+1,,"Jul-18
+Aug-18",,"Jul-18
+Aug-18",,,
+2,"Farm-gate price 
+(US$/Kg)","81
+78",-3%,"177
+178",1%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Aug_2018,Sep_2018,"Change  
+%",Sep_2017,Sep_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),88,82,-6%,133,82,-38%
+3,Dry opium Trader price (US$/Kg),94,88,-6%,140,88,-37%
+4,Fresh Opium Farm-gate price (US$/Kg),67,68,1%,108,68,-37%
+5,Fresh Opium Trader price (US$/Kg),73,78,6%,115,78,-33%
+6,Heroin High Quality,"2,866","2,916",2%,"3,300","2,916",-12%
+7,Heroin Medium Quality,"2,206","2,177",-1%,"2,264","2,177",-4%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Aug_2018,Sep_2018,"Change  
+%",Sep_2017,Sep_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),88,82,-6%,133,82,-38%
+3,Dry opium Trader price (US$/Kg),94,88,-6%,140,88,-37%
+4,Fresh Opium Farm-gate price (US$/Kg),67,68,1%,108,68,-37%
+5,Fresh Opium Trader price (US$/Kg),73,78,6%,115,78,-33%
+6,Heroin High Quality,"2,866","2,916",2%,"3,300","2,916",-12%
+7,Heroin Medium Quality,"2,206","2,177",-1%,"2,264","2,177",-4%
+,0,1,2,3,4,,
+0,able 3:  Aaverage price of dry opium (Chaynaki quality) at farm-gate level (US$/Kg),,,,,,
+1,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Sep-Aug) 
+%",Hilmand,"Price 
+change 
+(Sep-Aug) 
+%",,
+2,,"Aug-18
+Sep-18",,"Aug-18
+Sep-18",,,
+3,"Farm-gate price 
+(US$/Kg)","78.3
+77.6",-1%,"178
+172",-3%,,
+,0,1,2,3,4,,
+0,able 3:  Aaverage price of dry opium (Chaynaki quality) at farm-gate level (US$/Kg),,,,,,
+1,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Sep-Aug) 
+%",Hilmand,"Price 
+change 
+(Sep-Aug) 
+%",,
+2,,"Aug-18
+Sep-18",,"Aug-18
+Sep-18",,,
+3,"Farm-gate price 
+(US$/Kg)","78.3
+77.6",-1%,"178
+172",-3%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Sep_2018,Oct_2018,"Change  
+%",Oct_2017,Oct_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),82,78,-6%,127,78,-39%
+3,Dry opium Trader price (US$/Kg),88,84,-5%,134,84,-38%
+4,Fresh Opium Farm-gate price (US$/Kg),68,66,-2%,101,66,-35%
+5,Fresh Opium Trader price (US$/Kg),78,71,-8%,109,71,-34%
+6,Heroin High Quality,"2,916","2,707",-7%,"3,497","2,707",-23%
+7,Heroin Medium Quality,"2,177","2,134",-2%,"2,239","2,134",-5%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Sep_2018,Oct_2018,"Change  
+%",Oct_2017,Oct_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),82,78,-6%,127,78,-39%
+3,Dry opium Trader price (US$/Kg),88,84,-5%,134,84,-38%
+4,Fresh Opium Farm-gate price (US$/Kg),68,66,-2%,101,66,-35%
+5,Fresh Opium Trader price (US$/Kg),78,71,-8%,109,71,-34%
+6,Heroin High Quality,"2,916","2,707",-7%,"3,497","2,707",-23%
+7,Heroin Medium Quality,"2,177","2,134",-2%,"2,239","2,134",-5%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Sep_2018,Oct_2018,"Change  
+%",Oct_2017,Oct_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),82,78,-6%,127,78,-39%
+3,Dry opium Trader price (US$/Kg),88,84,-5%,134,84,-38%
+4,Fresh Opium Farm-gate price (US$/Kg),68,66,-2%,101,66,-35%
+5,Fresh Opium Trader price (US$/Kg),78,71,-8%,109,71,-34%
+6,Heroin High Quality,"2,916","2,707",-7%,"3,497","2,707",-23%
+7,Heroin Medium Quality,"2,177","2,134",-2%,"2,239","2,134",-5%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Sep_2018,Oct_2018,"Change  
+%",Oct_2017,Oct_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),82,78,-6%,127,78,-39%
+3,Dry opium Trader price (US$/Kg),88,84,-5%,134,84,-38%
+4,Fresh Opium Farm-gate price (US$/Kg),68,66,-2%,101,66,-35%
+5,Fresh Opium Trader price (US$/Kg),78,71,-8%,109,71,-34%
+6,Heroin High Quality,"2,916","2,707",-7%,"3,497","2,707",-23%
+7,Heroin Medium Quality,"2,177","2,134",-2%,"2,239","2,134",-5%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Oct-Sep) 
+%",Hilmand,"Price 
+change 
+(Oct-Sep) 
+%",,
+1,,"Sep-18
+Oct-18",,"Sep-18
+Oct-18",,,
+2,"Farm-gate price 
+(US$/Kg)","78
+91",18%,"172
+160",-7%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Oct_2018,Nov_2018,"Change  
+%",Nov_2017,Nov_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),78,80,3%,120,80,-33%
+3,Dry opium Trader price (US$/Kg),84,87,4%,127,87,-32%
+4,Fresh Opium Farm-gate price (US$/Kg),66,61,-7%,99,61,-38%
+5,Fresh Opium Trader price (US$/Kg),71,68,-5%,99,68,-31%
+6,Heroin High Quality,"2,707","2,690",-1%,"3,221","2,690",-16%
+7,Heroin Medium Quality,"2,134","2,007",-6%,"2,074","2,007",-3%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Oct_2018,Nov_2018,"Change  
+%",Nov_2017,Nov_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),78,80,3%,120,80,-33%
+3,Dry opium Trader price (US$/Kg),84,87,4%,127,87,-32%
+4,Fresh Opium Farm-gate price (US$/Kg),66,61,-7%,99,61,-38%
+5,Fresh Opium Trader price (US$/Kg),71,68,-5%,99,68,-31%
+6,Heroin High Quality,"2,707","2,690",-1%,"3,221","2,690",-16%
+7,Heroin Medium Quality,"2,134","2,007",-6%,"2,074","2,007",-3%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Nov-Oct) 
+%",Hilmand,"Price 
+change 
+(Nov-Oct) 
+%",,
+1,,"Oct-18
+Nov-18",,"Oct-18
+Nov-18",,,
+2,"Farm-gate price 
+(US$/Kg)","91
+88",-4%,"160
+163",2%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Nov_2018,Dec_2018,"Change  
+%",Dec_2017,Dec_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),80,83,3%,118,83,-30%
+3,Dry opium Trader price (US$/Kg),87,89,2%,126,89,-30%
+4,Fresh Opium Farm-gate price (US$/Kg),61,64,4%,99,64,-36%
+5,Fresh Opium Trader price (US$/Kg),68,71,4%,108,71,-34%
+6,Heroin High Quality,"2,690","2,814",5%,"3,158","2,814",-11%
+7,Heroin Medium Quality,"2,007","2,196",9%,"2,158","2,196",2%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Nov_2018,Dec_2018,"Change  
+%",Dec_2017,Dec_2018,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),80,83,3%,118,83,-30%
+3,Dry opium Trader price (US$/Kg),87,89,2%,126,89,-30%
+4,Fresh Opium Farm-gate price (US$/Kg),61,64,4%,99,64,-36%
+5,Fresh Opium Trader price (US$/Kg),68,71,4%,108,71,-34%
+6,Heroin High Quality,"2,690","2,814",5%,"3,158","2,814",-11%
+7,Heroin Medium Quality,"2,007","2,196",9%,"2,158","2,196",2%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Dec-Nov) 
+%",Hilmand,"Price 
+change 
+(Dec-Nov) 
+%",,
+1,,"Nov-18
+Dec-18",,"Nov-18
+Dec-18",,,
+2,"Farm-gate price 
+(US$/Kg)","88
+95",8%,"163
+159",-3%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Dec_2018,Jan_2019,"Change  
+%",Jan_2018,Jan_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),83,84,1%,111,84,-24%
+3,Dry opium Trader price (US$/Kg),89,90,1%,117,90,-23%
+4,Fresh Opium Farm-gate price (US$/Kg),64,67,5%,91,67,-26%
+5,Fresh Opium Trader price (US$/Kg),71,74,4%,99,74,-26%
+6,Heroin High Quality,"2,814","2,440",-13%,"3,227","2,440",-24%
+7,Heroin Medium Quality,"2,196","1,921",-13%,"2,142","1,921",-10%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Dec_2018,Jan_2019,"Change  
+%",Jan_2018,Jan_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),83,84,1%,111,84,-24%
+3,Dry opium Trader price (US$/Kg),89,90,1%,117,90,-23%
+4,Fresh Opium Farm-gate price (US$/Kg),64,67,5%,91,67,-26%
+5,Fresh Opium Trader price (US$/Kg),71,74,4%,99,74,-26%
+6,Heroin High Quality,"2,814","2,440",-13%,"3,227","2,440",-24%
+7,Heroin Medium Quality,"2,196","1,921",-13%,"2,142","1,921",-10%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Dec_2018,Jan_2019,"Change  
+%",Jan_2018,Jan_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),83,84,1%,111,84,-24%
+3,Dry opium Trader price (US$/Kg),89,90,1%,117,90,-23%
+4,Fresh Opium Farm-gate price (US$/Kg),64,67,5%,91,67,-26%
+5,Fresh Opium Trader price (US$/Kg),71,74,4%,99,74,-26%
+6,Heroin High Quality,"2,814","2,440",-13%,"3,227","2,440",-24%
+7,Heroin Medium Quality,"2,196","1,921",-13%,"2,142","1,921",-10%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Dec_2018,Jan_2019,"Change  
+%",Jan_2018,Jan_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),83,84,1%,111,84,-24%
+3,Dry opium Trader price (US$/Kg),89,90,1%,117,90,-23%
+4,Fresh Opium Farm-gate price (US$/Kg),64,67,5%,91,67,-26%
+5,Fresh Opium Trader price (US$/Kg),71,74,4%,99,74,-26%
+6,Heroin High Quality,"2,814","2,440",-13%,"3,227","2,440",-24%
+7,Heroin Medium Quality,"2,196","1,921",-13%,"2,142","1,921",-10%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Jan-Dec) 
+%",Hilmand,"Price 
+change 
+(Jan-Dec) 
+%",,
+1,,"Dec-18
+Jan-19",,"Dec-18
+Jan-19",,,
+2,"Farm-gate price 
+(US$/Kg)","94.9
+94.6",-0.30%,"159
+164",3%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Jan_2019,Feb_2019,"Change  
+%",Feb_2018,Feb_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),84,79,-6%,113,79,-30%
+3,Dry opium Trader price (US$/Kg),90,84,-6%,119,84,-29%
+4,Fresh Opium Farm-gate price (US$/Kg),67,66,-2%,94,66,-30%
+5,Fresh Opium Trader price (US$/Kg),74,72,-2%,103,72,-30%
+6,Heroin High Quality,"2,440","2,461",1%,"3,249","2,461",-24%
+7,Heroin Medium Quality,"1,921","1,867",-3%,"2,119","1,867",-12%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Jan_2019,Feb_2019,"Change  
+%",Feb_2018,Feb_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),84,79,-6%,113,79,-30%
+3,Dry opium Trader price (US$/Kg),90,84,-6%,119,84,-29%
+4,Fresh Opium Farm-gate price (US$/Kg),67,66,-2%,94,66,-30%
+5,Fresh Opium Trader price (US$/Kg),74,72,-2%,103,72,-30%
+6,Heroin High Quality,"2,440","2,461",1%,"3,249","2,461",-24%
+7,Heroin Medium Quality,"1,921","1,867",-3%,"2,119","1,867",-12%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Feb-Jan) 
+%",Hilmand,"Price 
+change 
+(Feb-Jan) 
+%",,
+1,,"Jan-19
+Feb-19",,"Jan-19
+Feb-19",,,
+2,"Farm-gate price 
+(US$/Kg)","95
+88",-7%,"164
+162",-1%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Feb_2019,Mar_2019,"Change  
+%",Mar_2018,Mar_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),79,73,-7%,107,73,-31%
+3,Dry opium Trader price (US$/Kg),84,78,-8%,114,78,-32%
+4,Fresh Opium Farm-gate price (US$/Kg),66,57,-14%,89,57,-36%
+5,Fresh Opium Trader price (US$/Kg),72,63,-13%,98,63,-35%
+6,Heroin High Quality,"2,461","2,394",-3%,"3,156","2,394",-24%
+7,Heroin Medium Quality,"1,867","1,784",-4%,"2,054","1,784",-13%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Feb_2019,Mar_2019,"Change  
+%",Mar_2018,Mar_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),79,73,-7%,107,73,-31%
+3,Dry opium Trader price (US$/Kg),84,78,-8%,114,78,-32%
+4,Fresh Opium Farm-gate price (US$/Kg),66,57,-14%,89,57,-36%
+5,Fresh Opium Trader price (US$/Kg),72,63,-13%,98,63,-35%
+6,Heroin High Quality,"2,461","2,394",-3%,"3,156","2,394",-24%
+7,Heroin Medium Quality,"1,867","1,784",-4%,"2,054","1,784",-13%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Mar-Feb) 
+%",Hilmand,"Price 
+change 
+(Mar-Feb) 
+%",,
+1,,"Feb-19
+Mar-19",,"Feb-19
+Mar-19",,,
+2,"Farm-gate price 
+(US$/Kg)","88
+80",-9%,"162
+163",0.30%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Mar_2019,Apr_2019,"Change  
+%",Apr_2018,Apr_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),73,67,-8%,103,67,-34%
+3,Dry opium Trader price (US$/Kg),78,72,-7%,111,72,-35%
+4,Fresh Opium Farm-gate price (US$/Kg),57,52,-8%,89,52,-42%
+5,Fresh Opium Trader price (US$/Kg),63,58,-8%,98,58,-41%
+6,Heroin High Quality,"2,394","2,300",-4%,"3,085","2,300",-25%
+7,Heroin Medium Quality,"1,784","1,675",-6%,"2,040","1,675",-18%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Mar_2019,Apr_2019,"Change  
+%",Apr_2018,Apr_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),73,67,-8%,103,67,-34%
+3,Dry opium Trader price (US$/Kg),78,72,-7%,111,72,-35%
+4,Fresh Opium Farm-gate price (US$/Kg),57,52,-8%,89,52,-42%
+5,Fresh Opium Trader price (US$/Kg),63,58,-8%,98,58,-41%
+6,Heroin High Quality,"2,394","2,300",-4%,"3,085","2,300",-25%
+7,Heroin Medium Quality,"1,784","1,675",-6%,"2,040","1,675",-18%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Apr-Mar) 
+%",Hilmand,"Price 
+change 
+(Apr-Mar) 
+%",,
+1,,"Mar-19
+Apr-19",,"Mar-19
+Apr-19",,,
+2,"Farm-gate price 
+(US$/Kg)","80
+72",-10%,"163
+146",-10%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Apr_2019,May_2019,"Change  
+%",May_2018,May_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),67,61,-10%,101,61,-40%
+3,Dry opium Trader price (US$/Kg),72,65,-10%,109,65,-40%
+4,Fresh Opium Farm-gate price (US$/Kg),52,45,-13%,89,45,-49%
+5,Fresh Opium Trader price (US$/Kg),58,50,-15%,98,50,-49%
+6,Heroin High Quality,"2,300","2,122",-8%,"3,243","2,122",-35%
+7,Heroin Medium Quality,"1,675","1,532",-9%,"2,033","1,532",-25%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,Apr_2019,May_2019,"Change  
+%",May_2018,May_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),67,61,-10%,101,61,-40%
+3,Dry opium Trader price (US$/Kg),72,65,-10%,109,65,-40%
+4,Fresh Opium Farm-gate price (US$/Kg),52,45,-13%,89,45,-49%
+5,Fresh Opium Trader price (US$/Kg),58,50,-15%,98,50,-49%
+6,Heroin High Quality,"2,300","2,122",-8%,"3,243","2,122",-35%
+7,Heroin Medium Quality,"1,675","1,532",-9%,"2,033","1,532",-25%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(May-Apr) 
+%",Hilmand,"Price 
+change 
+(May-Apr) 
+%",,
+1,,"Apr-19
+May-19",,"Apr-19
+May-19",,,
+2,"Farm-gate price 
+(US$/Kg)","72
+63",-13%,"146
+129",-12%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2019,June_2019,"Change  
+%",June_2018,June_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),61,59,-3%,111,59,-47%
+3,Dry opium Trader price (US$/Kg),65,63,-2%,119,63,-47%
+4,Fresh Opium Farm-gate price (US$/Kg),45,43,-6%,86,43,-50%
+5,Fresh Opium Trader price (US$/Kg),50,46,-6%,93,46,-50%
+6,Heroin High Quality,"2,122","2,008",-5%,"3,364","2,008",-40%
+7,Heroin Medium Quality,"1,532","1,498",-2%,"2,122","1,498",-29%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2019,June_2019,"Change  
+%",June_2018,June_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),61,59,-3%,111,59,-47%
+3,Dry opium Trader price (US$/Kg),65,63,-2%,119,63,-47%
+4,Fresh Opium Farm-gate price (US$/Kg),45,43,-6%,86,43,-50%
+5,Fresh Opium Trader price (US$/Kg),50,46,-6%,93,46,-50%
+6,Heroin High Quality,"2,122","2,008",-5%,"3,364","2,008",-40%
+7,Heroin Medium Quality,"1,532","1,498",-2%,"2,122","1,498",-29%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2019,June_2019,"Change  
+%",June_2018,June_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),61,59,-3%,111,59,-47%
+3,Dry opium Trader price (US$/Kg),65,63,-2%,119,63,-47%
+4,Fresh Opium Farm-gate price (US$/Kg),45,43,-6%,86,43,-50%
+5,Fresh Opium Trader price (US$/Kg),50,46,-6%,93,46,-50%
+6,Heroin High Quality,"2,122","2,008",-5%,"3,364","2,008",-40%
+7,Heroin Medium Quality,"1,532","1,498",-2%,"2,122","1,498",-29%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2019,June_2019,"Change  
+%",June_2018,June_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),61,59,-3%,111,59,-47%
+3,Dry opium Trader price (US$/Kg),65,63,-2%,119,63,-47%
+4,Fresh Opium Farm-gate price (US$/Kg),45,43,-6%,86,43,-50%
+5,Fresh Opium Trader price (US$/Kg),50,46,-6%,93,46,-50%
+6,Heroin High Quality,"2,122","2,008",-5%,"3,364","2,008",-40%
+7,Heroin Medium Quality,"1,532","1,498",-2%,"2,122","1,498",-29%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Jun-May) 
+%",Hilmand,"Price 
+change 
+(Jun-May) 
+%",,
+1,,"May-19
+Jun-19",,"May-19
+Jun-19",,,
+2,"Farm-gate price 
+(US$/Kg)","63
+64",2%,"129
+122",-5%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,June_2019,July_2019,"Change  
+%",July_2018,July_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),59,66,11%,91,66,-27%
+3,Dry opium Trader price (US$/Kg),63,77,21%,99,77,-22%
+4,Fresh Opium Farm-gate price (US$/Kg),43,53,24%,71,53,-25%
+5,Fresh Opium Trader price (US$/Kg),46,57,23%,78,57,-27%
+6,Heroin High Quality,"2,008","2,025",1%,"2,696","2,025",-25%
+7,Heroin Medium Quality,"1,498","1,433",-4%,"1,797","1,433",-20%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,June_2019,July_2019,"Change  
+%",July_2018,July_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),59,66,11%,91,66,-27%
+3,Dry opium Trader price (US$/Kg),63,77,21%,99,77,-22%
+4,Fresh Opium Farm-gate price (US$/Kg),43,53,24%,71,53,-25%
+5,Fresh Opium Trader price (US$/Kg),46,57,23%,78,57,-27%
+6,Heroin High Quality,"2,008","2,025",1%,"2,696","2,025",-25%
+7,Heroin Medium Quality,"1,498","1,433",-4%,"1,797","1,433",-20%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Jul-Jun) %",Hilmand,"Price 
+change 
+(Jul-Jun) 
+%",,
+1,,"Jun-19
+Jul-19",,"Jun-19
+Jul-19",,,
+2,"Farm-gate price 
+(US$/Kg)","64
+79",24%,"122
+125",3%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,July_2019,August_2019,"Change  
+%",August_2018,August_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),66,70,6%,88,70,-20%
+3,Dry opium Trader price (US$/Kg),70,74,6%,94,74,-21%
+4,Fresh Opium Farm-gate price (US$/Kg),53,58,9%,67,58,-13%
+5,Fresh Opium Trader price (US$/Kg),57,62,9%,73,62,-15%
+6,Heroin High Quality,2025,1961,-3%,2866,1961,-32%
+7,Heroin Medium Quality,1433,1475,3%,2206,1475,-33%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,July_2019,August_2019,"Change  
+%",August_2018,August_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),66,70,6%,88,70,-20%
+3,Dry opium Trader price (US$/Kg),70,74,6%,94,74,-21%
+4,Fresh Opium Farm-gate price (US$/Kg),53,58,9%,67,58,-13%
+5,Fresh Opium Trader price (US$/Kg),57,62,9%,73,62,-15%
+6,Heroin High Quality,2025,1961,-3%,2866,1961,-32%
+7,Heroin Medium Quality,1433,1475,3%,2206,1475,-33%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Aug-Jul) 
+%",Hilmand,"Price 
+change 
+(Aug-Jul) 
+%",,
+1,,"Jul-19
+Aug-19",,"Jul-19
+Aug-19",,,
+2,"Farm-gate price 
+(US$/Kg)","79
+93",18%,"125
+130",4%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,,August_2019 September_2019,"Change  
+%",September_2018 September_2019,,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),70,78,11%,82,78,-6%
+3,Dry opium Trader price (US$/Kg),74,82,11%,88,82,-7%
+4,Fresh Opium Farm-gate price (US$/Kg),58,64,10%,68,64,-6%
+5,Fresh Opium Trader price (US$/Kg),62,68,10%,78,68,-12%
+6,Heroin High Quality,1961,2143,9%,2916,2143,-27%
+7,Heroin Medium Quality,1475,1512,3%,2177,1512,-31%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,,August_2019 September_2019,"Change  
+%",September_2018 September_2019,,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),70,78,11%,82,78,-6%
+3,Dry opium Trader price (US$/Kg),74,82,11%,88,82,-7%
+4,Fresh Opium Farm-gate price (US$/Kg),58,64,10%,68,64,-6%
+5,Fresh Opium Trader price (US$/Kg),62,68,10%,78,68,-12%
+6,Heroin High Quality,1961,2143,9%,2916,2143,-27%
+7,Heroin Medium Quality,1475,1512,3%,2177,1512,-31%
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Sep-Aug) 
+%",Hilmand,"Price 
+change 
+(Sep-Aug) 
+%",,
+1,,"Aug-19
+Sep-19",,"Aug-19
+Sep-19",,,
+2,"Farm-gate price 
+(US$/Kg)","93
+95",2%,"130
+131",1%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,September_2019,October_2019,"Change  
+%",October_2018,October_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),78,79,1%,78,79,1%
+3,Dry opium Trader price (US$/Kg),82,83,1%,84,83,-1%
+4,Fresh Opium Farm-gate price (US$/Kg),64,66,4%,65.9,66.4,1%
+5,Fresh Opium Trader price (US$/Kg),68,71,4%,71.3,70.7,-1%
+6,Heroin High Quality,2143,2141,-0.10%,2707,2141,-21%
+7,Heroin Medium Quality,1512,1547,2%,2134,1547,-28%
+8,Methamphetamine (US$/Gram),NA,5,NA,NA,5,NA
+9,Sosegon (US$/Ampole),NA,1,NA,NA,1,NA
+10,Tablet k - A (US$/Tablet),NA,21,NA,NA,21,NA
+11,Tablet k - B (US$/Tablet),NA,9,NA,NA,9,NA
+12,Tablet k - C (US$/Tablet),NA,5,NA,NA,5,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,September_2019,October_2019,"Change  
+%",October_2018,October_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),78,79,1%,78,79,1%
+3,Dry opium Trader price (US$/Kg),82,83,1%,84,83,-1%
+4,Fresh Opium Farm-gate price (US$/Kg),64,66,4%,65.9,66.4,1%
+5,Fresh Opium Trader price (US$/Kg),68,71,4%,71.3,70.7,-1%
+6,Heroin High Quality,2143,2141,-0.10%,2707,2141,-21%
+7,Heroin Medium Quality,1512,1547,2%,2134,1547,-28%
+8,Methamphetamine (US$/Gram),NA,5,NA,NA,5,NA
+9,Sosegon (US$/Ampole),NA,1,NA,NA,1,NA
+10,Tablet k - A (US$/Tablet),NA,21,NA,NA,21,NA
+11,Tablet k - B (US$/Tablet),NA,9,NA,NA,9,NA
+12,Tablet k - C (US$/Tablet),NA,5,NA,NA,5,NA
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Oct-Sep) 
+%",Hilmand,"Price 
+change 
+(Oct-Sep) 
+%",,
+1,,"Sep-19
+Oct-19",,"Sep-19
+Oct-19",,,
+2,"Farm-gate price 
+(US$/Kg)","95
+87",-9%,"131
+128",-2%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,October_2019,November_2019,"Change  
+%",November_2018,November_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),79,81,3%,80,81,1%
+3,Dry opium Trader price (US$/Kg),83,87,4%,87,87,0%
+4,Fresh Opium Farm-gate price (US$/Kg),66,62,-7%,61,62,1%
+5,Fresh Opium Trader price (US$/Kg),71,68,-3%,68,68,0%
+6,Heroin High Quality,"2,141","2,105",-2%,"2,690","2,105",-22%
+7,Heroin Medium Quality,"1,547","1,492",-4%,"2,007","1,492",-26%
+8,Methamphetamine (Imported)  (US$/Gram),NA,5,NA,NA,5,NA
+9,Methamphetamine (Local)  (US$/Gram),NA,3,NA,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),NA,1,NA,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),NA,0.7,NA,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),NA,11,NA,NA,11,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),NA,11,NA,NA,11,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),NA,9,NA,NA,9,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),NA,3,NA,NA,3,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,October_2019,November_2019,"Change  
+%",November_2018,November_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),79,81,3%,80,81,1%
+3,Dry opium Trader price (US$/Kg),83,87,4%,87,87,0%
+4,Fresh Opium Farm-gate price (US$/Kg),66,62,-7%,61,62,1%
+5,Fresh Opium Trader price (US$/Kg),71,68,-3%,68,68,0%
+6,Heroin High Quality,"2,141","2,105",-2%,"2,690","2,105",-22%
+7,Heroin Medium Quality,"1,547","1,492",-4%,"2,007","1,492",-26%
+8,Methamphetamine (Imported)  (US$/Gram),NA,5,NA,NA,5,NA
+9,Methamphetamine (Local)  (US$/Gram),NA,3,NA,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),NA,1,NA,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),NA,0.7,NA,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),NA,11,NA,NA,11,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),NA,11,NA,NA,11,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),NA,9,NA,NA,9,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),NA,3,NA,NA,3,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,October_2019,November_2019,"Change  
+%",November_2018,November_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),79,81,3%,80,81,1%
+3,Dry opium Trader price (US$/Kg),83,87,4%,87,87,0%
+4,Fresh Opium Farm-gate price (US$/Kg),66,62,-7%,61,62,1%
+5,Fresh Opium Trader price (US$/Kg),71,68,-3%,68,68,0%
+6,Heroin High Quality,"2,141","2,105",-2%,"2,690","2,105",-22%
+7,Heroin Medium Quality,"1,547","1,492",-4%,"2,007","1,492",-26%
+8,Methamphetamine (Imported)  (US$/Gram),NA,5,NA,NA,5,NA
+9,Methamphetamine (Local)  (US$/Gram),NA,3,NA,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),NA,1,NA,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),NA,0.7,NA,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),NA,11,NA,NA,11,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),NA,11,NA,NA,11,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),NA,9,NA,NA,9,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),NA,3,NA,NA,3,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,October_2019,November_2019,"Change  
+%",November_2018,November_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),79,81,3%,80,81,1%
+3,Dry opium Trader price (US$/Kg),83,87,4%,87,87,0%
+4,Fresh Opium Farm-gate price (US$/Kg),66,62,-7%,61,62,1%
+5,Fresh Opium Trader price (US$/Kg),71,68,-3%,68,68,0%
+6,Heroin High Quality,"2,141","2,105",-2%,"2,690","2,105",-22%
+7,Heroin Medium Quality,"1,547","1,492",-4%,"2,007","1,492",-26%
+8,Methamphetamine (Imported)  (US$/Gram),NA,5,NA,NA,5,NA
+9,Methamphetamine (Local)  (US$/Gram),NA,3,NA,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),NA,1,NA,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),NA,0.7,NA,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),NA,11,NA,NA,11,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),NA,11,NA,NA,11,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),NA,9,NA,NA,9,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),NA,3,NA,NA,3,NA
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Nov-Oct) 
+%",Hilmand,"Price 
+change 
+(Nov-Oct) 
+%",,
+1,,"Oct-19
+Nov-19",,"Oct-19
+Nov-19",,,
+2,"Farm-gate price 
+(US$/Kg)","87
+86",-2%,"128
+123",-4%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,November_2019,December_2019,"Change  
+%",December_2018,December_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),81,79,-3%,83,79,-5%
+3,Dry opium Trader price (US$/Kg),87,83,-4%,89,83,-6%
+4,Fresh Opium Farm-gate price (US$/Kg),62,64,4%,64,64,0%
+5,Fresh Opium Trader price (US$/Kg),66,68,4%,71,68,-3%
+6,Heroin High Quality,"2,105","2,097",-0.40%,"2,814","2,097",-25%
+7,Heroin Medium Quality,"1,492","1,489",-0.20%,"2,196","1,489",-32%
+8,Methamphetamine (Imported)  (US$/Gram),5,6,31%,NA,6,NA
+9,Methamphetamine (Local)  (US$/Gram),3,3,-19%,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),1,1,-38%,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),0.7,0.7,-8%,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),11,12,9%,NA,12,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),11,11,-4%,NA,11,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),9,9,1%,NA,9,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),3,3,2%,NA,3,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,November_2019,December_2019,"Change  
+%",December_2018,December_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),81,79,-3%,83,79,-5%
+3,Dry opium Trader price (US$/Kg),87,83,-4%,89,83,-6%
+4,Fresh Opium Farm-gate price (US$/Kg),62,64,4%,64,64,0%
+5,Fresh Opium Trader price (US$/Kg),66,68,4%,71,68,-3%
+6,Heroin High Quality,"2,105","2,097",-0.40%,"2,814","2,097",-25%
+7,Heroin Medium Quality,"1,492","1,489",-0.20%,"2,196","1,489",-32%
+8,Methamphetamine (Imported)  (US$/Gram),5,6,31%,NA,6,NA
+9,Methamphetamine (Local)  (US$/Gram),3,3,-19%,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),1,1,-38%,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),0.7,0.7,-8%,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),11,12,9%,NA,12,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),11,11,-4%,NA,11,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),9,9,1%,NA,9,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),3,3,2%,NA,3,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,November_2019,December_2019,"Change  
+%",December_2018,December_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),81,79,-3%,83,79,-5%
+3,Dry opium Trader price (US$/Kg),87,83,-4%,89,83,-6%
+4,Fresh Opium Farm-gate price (US$/Kg),62,64,4%,64,64,0%
+5,Fresh Opium Trader price (US$/Kg),66,68,4%,71,68,-3%
+6,Heroin High Quality,"2,105","2,097",-0.40%,"2,814","2,097",-25%
+7,Heroin Medium Quality,"1,492","1,489",-0.20%,"2,196","1,489",-32%
+8,Methamphetamine (Imported)  (US$/Gram),5,6,31%,NA,6,NA
+9,Methamphetamine (Local)  (US$/Gram),3,3,-19%,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),1,1,-38%,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),0.7,0.7,-8%,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),11,12,9%,NA,12,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),11,11,-4%,NA,11,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),9,9,1%,NA,9,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),3,3,2%,NA,3,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,November_2019,December_2019,"Change  
+%",December_2018,December_2019,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),81,79,-3%,83,79,-5%
+3,Dry opium Trader price (US$/Kg),87,83,-4%,89,83,-6%
+4,Fresh Opium Farm-gate price (US$/Kg),62,64,4%,64,64,0%
+5,Fresh Opium Trader price (US$/Kg),66,68,4%,71,68,-3%
+6,Heroin High Quality,"2,105","2,097",-0.40%,"2,814","2,097",-25%
+7,Heroin Medium Quality,"1,492","1,489",-0.20%,"2,196","1,489",-32%
+8,Methamphetamine (Imported)  (US$/Gram),5,6,31%,NA,6,NA
+9,Methamphetamine (Local)  (US$/Gram),3,3,-19%,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),1,1,-38%,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),0.7,0.7,-8%,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),11,12,9%,NA,12,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),11,11,-4%,NA,11,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),9,9,1%,NA,9,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),3,3,2%,NA,3,NA
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Dec-Nov) 
+%",Hilmand,"Price 
+change 
+(Dec-Nov) 
+%",,
+1,,"Nov-19
+Dec-19",,"Nov-19
+Dec-19",,,
+2,"Farm-gate price 
+(US$/Kg)","86
+88",3%,"123
+124",1%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,December_2019,January_2020,"Change  
+%",January_2019,January_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),79,80,2%,84,80,-4%
+3,Dry opium Trader price (US$/Kg),83,84,0.40%,90,84,-7%
+4,Fresh Opium Farm-gate price (US$/Kg),64,64,1%,67,64,-4%
+5,Fresh Opium Trader price (US$/Kg),68,69,0.50%,74,69,-7%
+6,Heroin High Quality,NA,"2,655",NA,"2,440","2,655",9%
+7,Heroin Medium Quality,NA,"1,520",NA,"1,921","1,520",-21%
+8,Methamphetamine (Imported)  (US$/Gram),6,7,11%,NA,7,NA
+9,Methamphetamine (Local)  (US$/Gram),3,4,34%,NA,4,NA
+10,Sosegon (Imported)  (US$/Ampoule),1,1,13%,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),0.7,0.9,33%,NA,0.9,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),12,16,33%,NA,16,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),11,9,-18%,NA,9,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),9,7,-17%,NA,7,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),3,5,51%,NA,5,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,December_2019,January_2020,"Change  
+%",January_2019,January_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),79,80,2%,84,80,-4%
+3,Dry opium Trader price (US$/Kg),83,84,0.40%,90,84,-7%
+4,Fresh Opium Farm-gate price (US$/Kg),64,64,1%,67,64,-4%
+5,Fresh Opium Trader price (US$/Kg),68,69,0.50%,74,69,-7%
+6,Heroin High Quality,NA,"2,655",NA,"2,440","2,655",9%
+7,Heroin Medium Quality,NA,"1,520",NA,"1,921","1,520",-21%
+8,Methamphetamine (Imported)  (US$/Gram),6,7,11%,NA,7,NA
+9,Methamphetamine (Local)  (US$/Gram),3,4,34%,NA,4,NA
+10,Sosegon (Imported)  (US$/Ampoule),1,1,13%,NA,1,NA
+11,Sosegon (Local)  (US$/Ampoule),0.7,0.9,33%,NA,0.9,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),12,16,33%,NA,16,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),11,9,-18%,NA,9,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),9,7,-17%,NA,7,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),3,5,51%,NA,5,NA
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Jan-Dec) 
+%",Hilmand,,"Price 
+change 
+(Jan-Dec) 
+%"
+1,,19-Dec,20-Jan,,19-Dec,20-Jan,
+2,"Farm-gate price 
+(US$/Kg)",88,80,-9%,124,117,-6%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,January_2020,February_2020,"Change  
+%",February_2019,February_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),80,77,-4%,79,77,-3%
+3,Dry opium Trader price (US$/Kg),84,81,-4%,84,81,-5%
+4,Fresh Opium Farm-gate price (US$/Kg),64,59,-7%,66,59,-10%
+5,Fresh Opium Trader price (US$/Kg),69,64,-7%,72,64,-12%
+6,Heroin High Quality,"2,624","2,567",-2%,2461,"2,567",4%
+7,Heroin Medium Quality,"1,583","1,539",-3%,1867,"1,539",-18%
+8,Methamphetamine (Imported)  (US$/Gram),6.9,5.2,-25%,NA,5.2,NA
+9,Methamphetamine (Local)  (US$/Gram),3.6,2.9,-20%,NA,2.9,NA
+10,Sosegon (Imported)  (US$/Ampoule),1,0.9,-18%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.9,0.6,-30%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),15.7,14,-11%,NA,14,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),9,9.3,3%,NA,9.3,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7.4,7,-6%,NA,7,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),5.2,5.4,2%,NA,5.4,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,January_2020,February_2020,"Change  
+%",February_2019,February_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),80,77,-4%,79,77,-3%
+3,Dry opium Trader price (US$/Kg),84,81,-4%,84,81,-5%
+4,Fresh Opium Farm-gate price (US$/Kg),64,59,-7%,66,59,-10%
+5,Fresh Opium Trader price (US$/Kg),69,64,-7%,72,64,-12%
+6,Heroin High Quality,"2,624","2,567",-2%,2461,"2,567",4%
+7,Heroin Medium Quality,"1,583","1,539",-3%,1867,"1,539",-18%
+8,Methamphetamine (Imported)  (US$/Gram),6.9,5.2,-25%,NA,5.2,NA
+9,Methamphetamine (Local)  (US$/Gram),3.6,2.9,-20%,NA,2.9,NA
+10,Sosegon (Imported)  (US$/Ampoule),1,0.9,-18%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.9,0.6,-30%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),15.7,14,-11%,NA,14,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),9,9.3,3%,NA,9.3,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7.4,7,-6%,NA,7,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),5.2,5.4,2%,NA,5.4,NA
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Feb-Jan) 
+%",Hilmand,"Price 
+change 
+(Feb-Jan) 
+%",,
+1,,"Jan-20
+Feb-20",,"Jan-20
+Feb-20",,,
+2,"Farm-gate price 
+(US$/Kg)","80
+82",2%,"117
+132",13%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,February_2020,March_2020,"Change  
+%",March_2019,March_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),77,71,-8%,73,71,-3%
+3,Dry opium Trader price (US$/Kg),81,75,-7%,78,75,-4%
+4,Fresh Opium Farm-gate price (US$/Kg),59,54,-9%,57,54,-5%
+5,Fresh Opium Trader price (US$/Kg),64,58,-9%,63,58,-7%
+6,Heroin High Quality,"2,537","2,441",-4%,"2,394","2,441",2%
+7,Heroin Medium Quality,"1,539","1,493",-3%,"1,784","1,493",-16%
+8,Methamphetamine (Imported)  (US$/Gram),5.2,5.4,4%,NA,5.4,NA
+9,Methamphetamine (Local)  (US$/Gram),2.9,2.9,0%,NA,2.9,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,5%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.6,0.6,-3%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),14,13.5,-4%,NA,13.5,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),9.3,8.5,-9%,NA,8.5,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7,7,1%,NA,7,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),5.4,6.2,16%,NA,6.2,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,February_2020,March_2020,"Change  
+%",March_2019,March_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),77,71,-8%,73,71,-3%
+3,Dry opium Trader price (US$/Kg),81,75,-7%,78,75,-4%
+4,Fresh Opium Farm-gate price (US$/Kg),59,54,-9%,57,54,-5%
+5,Fresh Opium Trader price (US$/Kg),64,58,-9%,63,58,-7%
+6,Heroin High Quality,"2,537","2,441",-4%,"2,394","2,441",2%
+7,Heroin Medium Quality,"1,539","1,493",-3%,"1,784","1,493",-16%
+8,Methamphetamine (Imported)  (US$/Gram),5.2,5.4,4%,NA,5.4,NA
+9,Methamphetamine (Local)  (US$/Gram),2.9,2.9,0%,NA,2.9,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,5%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.6,0.6,-3%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),14,13.5,-4%,NA,13.5,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),9.3,8.5,-9%,NA,8.5,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7,7,1%,NA,7,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),5.4,6.2,16%,NA,6.2,NA
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Mar-Feb) 
+%",Hilmand,"Price 
+change 
+(Mar-Feb) 
+%",,
+1,,"Feb-20
+Mar-20",,"Feb-20
+Mar-20",,,
+2,"Farm-gate price 
+(US$/Kg)","82
+78",-5%,"132
+108",-18%,,
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,March_2020,April_2020,"Change  
+%",April_2019,April_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),71,72,1%,67,72,7%
+3,Dry opium Trader price (US$/Kg),75,76,2%,72,76,5%
+4,Fresh Opium Farm-gate price (US$/Kg),54,52,-3%,52.1,52.3,0.40%
+5,Fresh Opium Trader price (US$/Kg),58,57,-3%,58,57,-2%
+6,Heroin High Quality,"2,441","2,515",3%,"2,300","2,515",9%
+7,Heroin Medium Quality,"1,493","1,562",5%,"1,675","1,562",-7%
+8,Methamphetamine (Imported)  (US$/Gram),5.4,5.3,-2%,NA,5.3,NA
+9,Methamphetamine (Local)  (US$/Gram),2.9,3,4%,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,-2%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.6,0.6,2%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),13.5,13.8,2%,NA,13.8,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),8.5,8.9,4%,NA,8.9,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7,7.1,1%,NA,7.1,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),6.2,6.1,-2%,NA,6.1,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,March_2020,April_2020,"Change  
+%",April_2019,April_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),71,72,1%,67,72,7%
+3,Dry opium Trader price (US$/Kg),75,76,2%,72,76,5%
+4,Fresh Opium Farm-gate price (US$/Kg),54,52,-3%,52.1,52.3,0.40%
+5,Fresh Opium Trader price (US$/Kg),58,57,-3%,58,57,-2%
+6,Heroin High Quality,"2,441","2,515",3%,"2,300","2,515",9%
+7,Heroin Medium Quality,"1,493","1,562",5%,"1,675","1,562",-7%
+8,Methamphetamine (Imported)  (US$/Gram),5.4,5.3,-2%,NA,5.3,NA
+9,Methamphetamine (Local)  (US$/Gram),2.9,3,4%,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,-2%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.6,0.6,2%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),13.5,13.8,2%,NA,13.8,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),8.5,8.9,4%,NA,8.9,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7,7.1,1%,NA,7.1,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),6.2,6.1,-2%,NA,6.1,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,March_2020,April_2020,"Change  
+%",April_2019,April_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),71,72,1%,67,72,7%
+3,Dry opium Trader price (US$/Kg),75,76,2%,72,76,5%
+4,Fresh Opium Farm-gate price (US$/Kg),54,52,-3%,52.1,52.3,0.40%
+5,Fresh Opium Trader price (US$/Kg),58,57,-3%,58,57,-2%
+6,Heroin High Quality,"2,441","2,515",3%,"2,300","2,515",9%
+7,Heroin Medium Quality,"1,493","1,562",5%,"1,675","1,562",-7%
+8,Methamphetamine (Imported)  (US$/Gram),5.4,5.3,-2%,NA,5.3,NA
+9,Methamphetamine (Local)  (US$/Gram),2.9,3,4%,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,-2%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.6,0.6,2%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),13.5,13.8,2%,NA,13.8,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),8.5,8.9,4%,NA,8.9,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7,7.1,1%,NA,7.1,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),6.2,6.1,-2%,NA,6.1,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,March_2020,April_2020,"Change  
+%",April_2019,April_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),71,72,1%,67,72,7%
+3,Dry opium Trader price (US$/Kg),75,76,2%,72,76,5%
+4,Fresh Opium Farm-gate price (US$/Kg),54,52,-3%,52.1,52.3,0.40%
+5,Fresh Opium Trader price (US$/Kg),58,57,-3%,58,57,-2%
+6,Heroin High Quality,"2,441","2,515",3%,"2,300","2,515",9%
+7,Heroin Medium Quality,"1,493","1,562",5%,"1,675","1,562",-7%
+8,Methamphetamine (Imported)  (US$/Gram),5.4,5.3,-2%,NA,5.3,NA
+9,Methamphetamine (Local)  (US$/Gram),2.9,3,4%,NA,3,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,-2%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.6,0.6,2%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),13.5,13.8,2%,NA,13.8,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),8.5,8.9,4%,NA,8.9,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7,7.1,1%,NA,7.1,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),6.2,6.1,-2%,NA,6.1,NA
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(Apr-Mar) 
+%",Hilmand,,"Price 
+change 
+(Apr-Mar) 
+%"
+1,,20-Mar,20-Apr,,20-Mar,20-Apr,
+2,"Farm-gate price 
+(US$/Kg)",78,79,1%,108,104,-3%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,April_2020,May_2020,"Change  
+%",May_2019,May_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),72,69,-5%,61,69,13%
+3,Dry opium Trader price (US$/Kg),76,73,-5%,65,73,12%
+4,Fresh Opium Farm-gate price (US$/Kg),52,49,-7%,45,49,8%
+5,Fresh Opium Trader price (US$/Kg),57,52,-8%,50,52,5%
+6,Heroin High Quality,"2,540","2,496",-2%,"2,122","2,496",18%
+7,Heroin Medium Quality,"1,562","1,526",-2%,"1,532","1,526",-0.40%
+8,Methamphetamine (Imported)  (US$/Gram),5.3,3.8,-28%,NA,3.8,NA
+9,Methamphetamine (Local)  (US$/Gram),3,1.9,-36%,NA,1.9,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,-1%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.6,0.7,11%,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),13.8,14,1%,NA,14,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),8.9,8.4,-5%,NA,8.4,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7.1,7.4,5%,NA,7.4,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),6.1,6,-1%,NA,6,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,April_2020,May_2020,"Change  
+%",May_2019,May_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),72,69,-5%,61,69,13%
+3,Dry opium Trader price (US$/Kg),76,73,-5%,65,73,12%
+4,Fresh Opium Farm-gate price (US$/Kg),52,49,-7%,45,49,8%
+5,Fresh Opium Trader price (US$/Kg),57,52,-8%,50,52,5%
+6,Heroin High Quality,"2,540","2,496",-2%,"2,122","2,496",18%
+7,Heroin Medium Quality,"1,562","1,526",-2%,"1,532","1,526",-0.40%
+8,Methamphetamine (Imported)  (US$/Gram),5.3,3.8,-28%,NA,3.8,NA
+9,Methamphetamine (Local)  (US$/Gram),3,1.9,-36%,NA,1.9,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,-1%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.6,0.7,11%,NA,0.7,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),13.8,14,1%,NA,14,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),8.9,8.4,-5%,NA,8.4,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7.1,7.4,5%,NA,7.4,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),6.1,6,-1%,NA,6,NA
+,0,1,2,3,4,5,6
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,,"Price 
+change 
+(May-Apr) 
+%",Hilmand,,"Price 
+change 
+(May-Apr) 
+%"
+1,,20-Apr,20-May,,20-Apr,20-May,
+2,"Farm-gate price 
+(US$/Kg)",79,71,-9%,104,100,-4%
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2020,June_2020,"Change  
+%",June_2019,June_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),69,66,-4%,59,66,11%
+3,Dry opium Trader price (US$/Kg),73,69,-5%,63,69,9%
+4,Fresh Opium Farm-gate price (US$/Kg),49,45,-8%,43,45,5%
+5,Fresh Opium Trader price (US$/Kg),52,48,-8%,46,48,4%
+6,Heroin High Quality,"2,496","2,419",-3%,"2,008","2,419",20%
+7,Heroin Medium Quality,"1,526","1,450",-5%,"1,498","1,450",-3%
+8,Methamphetamine (Imported)  (US$/Gram),3.8,3.6,-5%,NA,3.6,NA
+9,Methamphetamine (Local)  (US$/Gram),1.9,1.8,-8%,NA,1.8,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,-2%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.7,0.6,-7%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),14,14.3,3%,NA,14.3,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),8.4,8.6,2%,NA,8.6,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7.4,7.3,-2%,NA,7.3,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),6,5.5,-9%,NA,5.5,NA
+,0,1,2,3,4,5,6
+0,,By Month,,,By Year,,
+1,,May_2020,June_2020,"Change  
+%",June_2019,June_2020,"Change 
+%"
+2,Dry opium Farm-gate price (US$/Kg),69,66,-4%,59,66,11%
+3,Dry opium Trader price (US$/Kg),73,69,-5%,63,69,9%
+4,Fresh Opium Farm-gate price (US$/Kg),49,45,-8%,43,45,5%
+5,Fresh Opium Trader price (US$/Kg),52,48,-8%,46,48,4%
+6,Heroin High Quality,"2,496","2,419",-3%,"2,008","2,419",20%
+7,Heroin Medium Quality,"1,526","1,450",-5%,"1,498","1,450",-3%
+8,Methamphetamine (Imported)  (US$/Gram),3.8,3.6,-5%,NA,3.6,NA
+9,Methamphetamine (Local)  (US$/Gram),1.9,1.8,-8%,NA,1.8,NA
+10,Sosegon (Imported)  (US$/Ampoule),0.9,0.9,-2%,NA,0.9,NA
+11,Sosegon (Local)  (US$/Ampoule),0.7,0.6,-7%,NA,0.6,NA
+12,MDMA ( Tablet -K ) A (US$/Tablet),14,14.3,3%,NA,14.3,NA
+13,MDMA ( Tablet -K ) B (US$/Tablet),8.4,8.6,2%,NA,8.6,NA
+14,MDMA ( Tablet -K ) C (US$/Tablet),7.4,7.3,-2%,NA,7.3,NA
+15,MDMA ( Tablet -K ) D (US$/Tablet),6,5.5,-9%,NA,5.5,NA
+,0,1,2,3,4,,
+0,"Dry Opium 
+(Chaynaki quality)",Balkh,"Price 
+change 
+(Jun-May) 
+%",Hilmand,"Price 
+change 
+(Jun-May) 
+%",,
+1,,"May-20
+Jun-20",,"May-20
+Jun-20",,,
+2,"Farm-gate price 
+(US$/Kg)","71
+66",-8%,"100
+97",-3%,,
